@@ -66,7 +66,7 @@ const AboutUs = () => {
             <FadeIn delay={150}>
               <div className="relative h-96 rounded-lg overflow-hidden">
                 <img 
-                  src="/public/innovation.png"
+                  src="/innovation.png"
                   alt="Modern office space"
                   className="w-full h-full object-cover"
                 />
